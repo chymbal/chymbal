@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**chymbal/chymbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### My name is Rakhi Azfa Rifansya, I am a student from Indonesia.
 
 - 🔭 I’m currently working on My Personal Projects
 - 🌱 I’m currently learning Web Development
