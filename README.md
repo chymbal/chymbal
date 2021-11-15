@@ -4,5 +4,4 @@
 
 - 🔭 I’m currently working on My Personal Projects
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me: ...
 
